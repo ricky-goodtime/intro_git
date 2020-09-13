@@ -2,5 +2,6 @@ Gitの練習をしています。
 以下を練習中
 ・git add
 ・git commit
+・git rm
 
 
